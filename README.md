@@ -16,6 +16,6 @@ This project includes codes for three assignments of statistical natural languag
   In this assignment, loglinear models and the perceptron are used to [BioNLP'09 Shared Task](http://www.nactem.ac.uk/tsujii/GENIA/SharedTask/) to extract bio-molecular events (bio-events) that appear in biomedical literature.
   
 ### Assignment 3: Sentence Representations for Sentiment Analysis on Twitter
-  In this assignment will investigate representation learning for sentiment analysis of tweets.
-  The bag-of-words-vector, simple RNN, GRU, bi-directional RCNN models are implemented had RCNN model 
+  This assignment will investigate representation learning for sentiment analysis of tweets.
+  The bag-of-words-vector, simple RNN, GRU, bi-directional RCNN models are implemented and RCNN model 
   achieves the best performance
